@@ -1,2 +1,0 @@
-# iKare
-Created with CodeSandbox
